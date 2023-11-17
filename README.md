@@ -1,6 +1,4 @@
-- 👋 Oiee, Meu nome é Thaís Carneiro!
-- 🌱 Sou iniciante em programação:
- Atualmente estou aprendendo minha primeira linguagem que é JavaScript, irei aprender HTML e CSS também.
-  Meu foco no momento é front-end.
-- 💞️ Quero cursar Engenharia de Software.
-- 📫 thaiscarneiro0909@gmail.com
+- 👋 Oiee eu sou a Thaís Carneiro, iniciante no mundo de T.I
+- 🌱 Estou me dedicando ao aprendizado de JavaScript, e quero atuar como desenvolvedora front-end.
+
+- 💞️ Meu curso de interesse é Engenharia de Software.
