@@ -1,4 +1,3 @@
-- 👋 Oiee eu sou a Thaís Carneiro, iniciante no mundo de T.I
-- 🌱 Estou me dedicando ao aprendizado de JavaScript, e quero atuar como desenvolvedora front-end.
+🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
-- 💞️ Meu curso de interesse é Engenharia de Software.
+👩‍💻 Participei da 7° imersão Dev da Alura,fiz os desafios propostos e este foi meu primeiro contato com o mundo da T.I
